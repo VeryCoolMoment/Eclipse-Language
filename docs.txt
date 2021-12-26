@@ -1,0 +1,15 @@
+Eclipse Docs
+
+console.output (value)
+Prints anything after the command
+console.pause 
+Pauses the interpreter until Enter is pressed
+console.system 
+Runs a command through CMD (Soon Bash)
+console.end
+Quits the intepreter
+
+You can make comments with // 
+To Open a file with the intepreter you can drag the .py file ontop of either the uncompiled .py file or through the terminal
+
+More commands will be added soon!

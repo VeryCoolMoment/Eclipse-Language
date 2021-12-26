@@ -1,0 +1,3 @@
+console.output Hello World!
+console.pause
+console.quit
